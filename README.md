@@ -1,4 +1,4 @@
-# MERNchies
+# The Cloud Kitchen
 
 A food delivery app build using the MERN (MongoDB, Express.js, React.js, Node.js) Stack.
 
