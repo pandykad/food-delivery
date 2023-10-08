@@ -40,10 +40,10 @@ A food delivery app build using the MERN (MongoDB, Express.js, React.js, Node.js
 <h2> Below is a small demo of the Application: </h2>
 
 # Adding to Cart
-![AddToCart-gif-high](https://github.com/AmeyaK17/MERNchies/blob/main/ReadMeGifs/AddToCart-High.gif)
+![AddToCart-gif-high](https://github.com/pandykad/food-delivery/blob/main/ReadMeGifs/AddToCart-High.gif)
 
 # SignUp Page
-![AddToCart-gif-high](https://github.com/AmeyaK17/MERNchies/blob/main/ReadMeGifs/signup.gif)
+![AddToCart-gif-high](https://github.com/pandykad/food-delivery/blob/main/ReadMeGifs/signup.gif)
 
 # Login Page and MyOders Page
-![AddToCart-gif-high](https://github.com/AmeyaK17/MERNchies/blob/main/ReadMeGifs/Login.gif)
+![AddToCart-gif-high](https://github.com/pandykad/food-delivery/blob/main/ReadMeGifs/Login.gif)
